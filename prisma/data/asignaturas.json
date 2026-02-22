@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Matemáticas",
+        "profesor": "Roberto García",
+        "horas_semana": 4
+    },
+    {
+        "nombre": "Lengua",
+        "profesor": "María López",
+        "horas_semana": 4
+    },
+    {
+        "nombre": "Ciencias",
+        "profesor": "Pedro Rodríguez",
+        "horas_semana": 3
+    },
+    {
+        "nombre": "Educación Física",
+        "profesor": "Ana Martínez",
+        "horas_semana": 2
+    },
+    {
+        "nombre": "Educación Religiosa",
+        "profesor": "Luis Rodríguez",
+        "horas_semana": 2
+    }
+]

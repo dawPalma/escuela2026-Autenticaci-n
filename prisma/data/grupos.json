@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "ESO1A",
+        "tutor": "Eva García",
+        "aula": "001"
+    },
+    {
+        "nombre": "ESO1B",
+        "tutor": "Juan Pérez",
+        "aula": "002"
+    },
+    {
+        "nombre": "ESO2A",
+        "tutor": "María López",
+        "aula": "103"
+    },
+    {
+        "nombre": "ESO2B",
+        "tutor": "Isabel Cañero",
+        "aula": "105"
+    },
+    {
+        "nombre": "ESO3A",
+        "tutor": "Ana Martínez",
+        "aula": "206"
+    },
+    {
+        "nombre": "ESO3B",
+        "tutor": "Roberto Rodríguez",
+        "aula": "207"
+    },
+    {
+        "nombre": "ESO4A",
+        "tutor": "Marina Cuenca",
+        "aula": "110"
+    },
+    {
+        "nombre": "Bac1A",
+        "tutor": "Pedro Rodríguez",
+        "aula": "111"
+    },
+    {
+        "nombre": "Bac1B",
+        "tutor": "Ana Fernández",
+        "aula": "112"
+    },
+    {
+        "nombre": "Bac2A",
+        "tutor": "Juan Jiménez",
+        "aula": "109"
+    }
+]
